@@ -1,6 +1,6 @@
 # DeepFake Recognition | Python
 
-DeepFake insanların yüzlerini, hareketlerini ve seslerini gerçekçi bir şekilde tatklit veya değiştirme için yapay zeka teknikleri kullanılarak oluşturulan fotoğraf, video veya sesleri tanımlamak için kullanılıyor. Deepfake teknolojisi temelde üretici hasmane ağlar (Generative Adversarial Network/GAN) isimli makine öğrenmesi tekniğine dayanıyor. GAN, bir görseli tanımak üzere kendini eğitmek için bir dizi algoritma kullanıyor. Bu eğitim sahte görüntüler üretebilmek için gerçek özellikleri öğrenmesine yardımcı oluyor. Peki DeepFake Recognition da biz neyi hedefledik ve gerçekleştirdik; Projemizde, video üzerindeki yüzlerin gerçekliliklerini test ederek orjinal olup olmadıklarını kullanıcıya geri dönüş olarak ilettik.
+DeepFake insanların yüzlerini, hareketlerini ve seslerini gerçekçi bir şekilde taklit veya değiştirme için yapay zeka teknikleri kullanılarak oluşturulan fotoğraf, video veya sesleri tanımlamak için kullanılıyor. Deepfake teknolojisi temelde üretici hasmane ağlar (Generative Adversarial Network/GAN) isimli makine öğrenmesi tekniğine dayanıyor. GAN, bir görseli tanımak üzere kendini eğitmek için bir dizi algoritma kullanıyor. Bu eğitim sahte görüntüler üretebilmek için gerçek özellikleri öğrenmesine yardımcı oluyor. Peki DeepFake Recognition da biz neyi hedefledik ve gerçekleştirdik; Projemizde, video üzerindeki yüzlerin gerçekliliklerini test ederek orjinal olup olmadıklarını kullanıcıya geri dönüş olarak ilettik.
 
 
 
